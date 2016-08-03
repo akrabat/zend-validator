@@ -10,3 +10,5 @@ may be applied to a single datum in a user-defined order.
 
 - File issues at https://github.com/zendframework/zend-validator/issues
 - Documentation is at http://framework.zend.com/manual/current/en/index.html#zend-validator
+
+shreya working on it
